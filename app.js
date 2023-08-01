@@ -1,5 +1,6 @@
 const func = (arr)=>{
     console.log(1);
+    console.log('dev');
     return [...new Set(arr)]
     
 }
